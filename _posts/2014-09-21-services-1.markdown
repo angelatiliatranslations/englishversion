@@ -2,31 +2,16 @@
 layout: default
 img: 1.jpg
 category: Services
-title: Translations & Localization &#127760;
+title: Translations &#127760;
 description: translations, tłumaczenia, traduzioni, localization, lokalizacja, localizzazione, xl8, tn9, l10n
 ---
 <p>
-I provide professional translations from English to Italian and from Polish to Italian, and offer website localization services for the Italian market. Feel free to send me an email including the text you want to be translated in order to get a free quote or more information.
+A translation takes your words on a journey to an incredible destination. If you’re looking for a professional to translate your text from English to Italian or from Polish to Italian, I can help make the journey more comfortable. I specialise in art, craft production, sustainability, fashion, marketing and advertising, but I’m also very happy to work on texts that don’t fall under any of these categories. If you’re unsure, simply send me an email explaining your project and I’ll get back to you with more details, obligation free. The cost of a translation is always calculated based on the number of words in your file, and includes an analysis of the text, terminology research, the translation itself and a final proofread.
 </p>
 <p>
-<strong>✔️ Per word rate</strong>
-</p>
-<a href="mailto:angela@tiliatranslations.it">Request a free quote.</a>
-
-<h2>Tłumaczenie i lokalizacja</h2>
-<p>
-Zajmuję się profesjonalnymi tłumaczeniami z polskiego na włoski i z angielskiego na włoski. Dodatkowo zajmuję się lokalizacją stron internetowych. Proszę wysłać mi e-mail z tekstem do przetłumaczenia w celu uzyskania dalszych informacji lub bezpłatnej wyceny.
+<strong>✔️ Website texts, product descriptions, portfolios, flyers, press releases, newsletters, blog articles, CVs, cover letters, and much more</strong>
 </p>
 <p>
-<strong>✔️ Stawka za słowo</strong>
+<strong>✔️ Charged per word</strong>
 </p>
-<a href="mailto:angela@tiliatranslations.it">Uzyskaj bezpłatną wycenę.</a>
-
-<h2>Traduzioni e localizzazione</h2>
-<p>
-Fornisco traduzioni professionali dall’inglese all’italiano e dal polacco all’italiano e inoltre mi occupo di localizzazione di siti web per il mercato italiano. Per ottenere un preventivo gratuito inviami il testo che hai bisogno di tradurre e ti fornirò volentieri maggiori informazioni. 
-</p>
-<p>
-<strong>✔️ Tariffa a parola</strong>
-</p>
-  <a href="mailto:angela@tiliatranslations.it">Richiedi gratuitamente un preventivo.</a>
+<a href="mailto:angela@tiliatranslations.it">Please send me a free quote.</a>
