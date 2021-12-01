@@ -3,7 +3,7 @@ layout: default
 img: 3.jpg
 category: Services
 title: Revising Italian texts and translations &#128209;
-description: proofreading, korekty, correzione bozze
+description: text revision, proofread italian translation
 ---
 <p>
 Writing or translating requires an incredible amount of creativity and ingenuity, so it’s always a shame when a good piece of work is let down by small slips or typos. If your eyes are tired from reading and rereading your work, it could be time to entrust it to a professional. I revise both professional and personal documents, including university texts like essays, dissertations and theses. The cost of the revision is always calculated on an hourly basis, and includes an analysis of the text, terminology research, a final proofread and flagging of any mistakes. For revision of translations from English or Polish to Italian, the fee also includes comparing the translated text with the original.
