@@ -3,7 +3,7 @@ layout: default
 img: 2.jpg
 category: Services
 title: Transcription of Italian recordings &#127911;
-description: transcriptions, transkrypcje, trascrizioni
+description: italian transcription, italian audio transcription, transcription recording to text
 ---
 <p>
 When you order a transcription of a recording, you’re not normally looking for a series of random words: you want a legible and coherent text that is accurate and, above all, easily understandable. If you’re searching for a professional to provide this service, look no further: I specialise in transcribing Italian audio and video files. The cost of the transcription is always calculated on an hourly basis, and includes drafting the text, terminology research, an initial revision and a final proofread.
