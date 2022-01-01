@@ -14,4 +14,6 @@ Writing or translating requires an incredible amount of creativity and ingenuity
 <p>
 <strong>✔️ Charged by the hour</strong>
 </p>
-<a href="mailto:angela@tiliatranslations.it">Please send me a free quote.</a>
+<p>
+Would you like to be sent a free quote? Feel free to drop me an email.
+</p>
