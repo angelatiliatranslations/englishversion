@@ -14,4 +14,6 @@ A translation takes your words on a journey to an incredible destination. If you
 <p>
 <strong>✔️ Charged per word</strong>
 </p>
-<a href="mailto:angela@tiliatranslations.it">Please send me a free quote.</a>
+<p>
+Would you like to be sent a free quote? Feel free to drop me an email.
+</p>
