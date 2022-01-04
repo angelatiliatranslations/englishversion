@@ -18,5 +18,7 @@ A translation takes your words on a journey to an incredible destination. If you
 <strong>✔️ Charged per word</strong>
 </p>
 <p>
-Would you like to be sent a free quote? Feel free to drop me an email.
+Would you like to be sent a free quote? 
+<br>
+Feel free to drop me an email.
 </p>
