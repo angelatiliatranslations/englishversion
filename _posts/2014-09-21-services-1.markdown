@@ -2,7 +2,7 @@
 layout: default
 img: 1.jpg
 category: Services
-title: Translations &#127760;
+title: Translations
 description: italian translation, italian translator, italian translator in english, english italian translation, translation polish to italian
 ---
 <p>
