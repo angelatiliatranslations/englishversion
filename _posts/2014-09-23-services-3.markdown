@@ -2,7 +2,7 @@
 layout: default
 img: 3.jpg
 category: Services
-title: Revising Italian texts and translations &#128209;
+title: Revising Italian texts and translations
 description: text revision, proofread italian translation
 ---
 <p>
