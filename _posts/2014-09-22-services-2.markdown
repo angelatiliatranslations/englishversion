@@ -2,7 +2,7 @@
 layout: default
 img: 2.jpg
 category: Services
-title: Transcription of Italian recordings &#127911;
+title: Transcription of Italian recordings
 description: italian transcription, italian audio transcription, transcription recording to text
 ---
 <p>
