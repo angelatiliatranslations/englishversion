@@ -1,6 +1,6 @@
 ---
 layout: default
-img: 2.jpg
+img: trascrizioni.jpg
 category: Services
 title: Transcription of Italian recordings
 description: italian transcription, italian audio transcription, transcription recording to text
