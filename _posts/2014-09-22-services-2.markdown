@@ -24,7 +24,7 @@ Feel free to drop me an email.
 </p>
 <br>
 <h4>CLIENTS</h4>
-<br> 
+</br> 
 <div style="float:left;margin-right:1em;">
   <img src="../img/Brooklyn Rail eng.jpg" alt="Brooklyn Rail">
 </div> 
