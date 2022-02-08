@@ -28,10 +28,10 @@ Feel free to drop me an email.
 </p>
 <br>
 <h4>CLIENTS</h4>
-</br> 
-<div style="float:left;margin-right:1em;">
+<br> 
+<div style="float:left; margin-right:1em;">
   <img src="../img/Brooklyn Rail eng.jpg" alt="Brooklyn Rail">
-<div style="float:left;margin-right:1em;">
+<div style="float:left; margin-right:1em;">
   <img src="../img/Translated eng.jpg" alt="Translated">
 </div> 
 <br>
