@@ -26,6 +26,6 @@ Feel free to drop me an email.
 <h4>CLIENTS</h4>
 <br> 
 <div style="float:left; margin-right:1em;">
-  <img src="../img/Brooklyn Rail eng.jpg" alt="Brooklyn Rail">
+  <img src="../englishversion/img/Brooklyn Rail eng.jpg" alt="Brooklyn Rail">
 </div> 
 <br>
