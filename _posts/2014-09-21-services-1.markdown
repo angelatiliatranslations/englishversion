@@ -29,8 +29,8 @@ Feel free to drop me an email.
 <br>
 <h4>CLIENTS</h4>
 <br> 
-<div style="float:left;margin-right:1em;"><img src="https://github.com/angelatiliatranslations/englishversion/blob/main/img/Brooklyn%20Rail%20eng.jpg" alt="Brooklyn Rail"/>
-<div style="float:left;margin-right:1em;"><img src="https://github.com/angelatiliatranslations/englishversion/blob/main/img/Translated%20eng.jpg" alt="Translated"/>
+<div style="float:left;margin-right:1em;"><img src="https://github.com/angelatiliatranslations/englishversion/blob/main/img/BrooklynRaileng.jpg" alt="Brooklyn Rail"/>
+<div style="float:left;margin-right:1em;"><img src="https://github.com/angelatiliatranslations/englishversion/blob/main/img/Translatedeng.jpg" alt="Translated"/>
 </div> 
 <br>
 
