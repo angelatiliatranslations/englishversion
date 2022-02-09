@@ -22,11 +22,6 @@ Would you like to be sent a free quote?
 <br>
 Feel free to drop me an email.
 </p>
-<br>
-<h4>CLIENTS</h4>
-<br> 
-<div style="float:left; margin-right:1em;"><img src="../img/BrooklynRaileng.jpg" alt="Brooklyn Rail"/>
-</div> 
-<br>
+
 
 
