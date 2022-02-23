@@ -20,7 +20,7 @@ When you order a transcription of a recording, you’re not normally looking for
 <p>
 Would you like to be sent a free quote? 
 <br>
-Feel free to drop me an email.
+<a href="#contact">Feel free to drop me an email.</a>
 </p>
 <br>
 <h4>CLIENTS</h4>
