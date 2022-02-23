@@ -20,7 +20,7 @@ A translation takes your words on a journey to an incredible destination. If you
 <p>
 Would you like to be sent a free quote? 
 <br>
-Feel free to drop me an email.
+<a href="#contact">Feel free to drop me an email.</a>
 </p>
 <br>
 <p>
