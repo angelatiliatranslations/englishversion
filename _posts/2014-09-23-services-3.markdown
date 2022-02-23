@@ -20,5 +20,5 @@ Writing or translating requires an incredible amount of creativity and ingenuity
 <p>
 Would you like to be sent a free quote? 
 <br>
-Feel free to drop me an email.
+<a href="#contact">Feel free to drop me an email.</a>
 </p>
