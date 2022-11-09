@@ -26,7 +26,7 @@ Would you like to be sent a free quote?
 <a href="#contact">Feel free to drop me an email.</a>
 </p>
 <br>
-<h4>CLIENTS</h4>
+<h4>I COLLABORATED WITH:</h4>
 <br>
 <div style="float:left;margin-right:1em;"><img src="./img/BrooklynRaileng.jpg" alt="BrooklynRail"/>
 <div style="float:left;margin-right:1em;"><img src="./img/Translatedeng.jpg" alt="Translated"/>
