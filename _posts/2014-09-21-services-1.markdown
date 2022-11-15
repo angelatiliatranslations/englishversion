@@ -30,5 +30,6 @@ Would you like to be sent a free quote?
 <br>
 <div style="float:left;margin-right:1em;"><img src="./img/BrooklynRaileng.jpg" alt="BrooklynRail"/>
 <div style="float:left;margin-right:1em;"><img src="./img/Translatedeng.jpg" alt="Translated"/>
+<div style="float:left;margin-right:1em;"><img src= "../img/twblogo.jpg" alt="TWB"/>
 </div>
 <br>
