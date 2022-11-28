@@ -25,11 +25,3 @@ Would you like to be sent a free quote?
 <br>
 <a href="#contact">Feel free to drop me an email.</a>
 </p>
-<br>
-<h4>I COLLABORATED WITH:</h4>
-<br>
-<div style="float:left;margin-right:1em;"><img src="../img/BrooklynRaileng.jpg" alt="Brooklyn Rail"/>
-<div style="float:left;margin-right:1em;"><img src="../img/Translatedeng.jpg" alt="Translated"/>
-<div style="float:left;margin-right:1em;"><img src="../img/twblogoeng.jpg" alt="TWB"/>
-</div>
-<br>
