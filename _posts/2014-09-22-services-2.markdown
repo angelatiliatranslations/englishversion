@@ -1,6 +1,6 @@
 ---
 layout: default
-img: trascrizioni.jpg
+img: trascrizioni ENG 2023.png
 category: Services
 title: Transcription of Italian recordings
 description: italian transcription, italian audio transcription, transcription recording to text
