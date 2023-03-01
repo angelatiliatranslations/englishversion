@@ -1,6 +1,6 @@
 ---
 layout: default
-img: revisioni.jpg
+img: revisioni 2023 ENG.png
 category: Services
 title: Revising Italian texts and translations
 description: text revision, proofread italian translation
