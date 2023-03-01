@@ -1,6 +1,6 @@
 ---
 layout: default
-img: traduzioni.jpg
+img: traduzioni ENG 2023.png
 category: Services
 title: Translations
 description: italian translation, italian translator, italian translator in english, english italian translation, translation polish to italian
